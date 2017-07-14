@@ -1,0 +1,4 @@
+# ignore dependencies files that are in "node_modules" directory
+**/node_modules
+#optional, maybe will be used later
+**/bootstrap-3.3.7
